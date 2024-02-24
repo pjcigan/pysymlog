@@ -1,0 +1,2 @@
+recursive-exclude images *
+recursive-exclude examples *
