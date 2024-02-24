@@ -61,7 +61,7 @@ Examples
 See the main examples tutorial jupyter notebook.
 View on nbviewer here:
 
- `https://github.com/pjcigan/pysymlog/blob/master/examples/tutorial_mpl.ipynb <https://github.com/pjcigan/obsplanning/blob/master/examples/tutorial_mpl.ipynb>`_
+ `https://nbviewer.org/github/pjcigan/pysymlog/blob/master/examples/tutorial_mpl.ipynb <https://nbviewer.org/github/pjcigan/pysymlog/blob/master/examples/tutorial_mpl.ipynb>`_
 
 
 
