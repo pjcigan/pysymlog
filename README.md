@@ -6,7 +6,7 @@ version 1.0.1
 API documentation: [https://pysymlog.readthedocs.io/en/latest/pysymlog.html](https://pysymlog.readthedocs.io/en/latest/pysymlog.html)
 
 Examples:
-View on readthedocs[https://pysymlog.readthedocs.io/en/latest/tutorial_mpl.html](https://pysymlog.readthedocs.io/en/latest/tutorial_mpl.html)
+View on [readthedocs](https://pysymlog.readthedocs.io/en/latest/tutorial_mpl.html)
 or on [nbviewer](https://nbviewer.org/github/pjcigan/pysymlog/blob/master/examples/tutorial_mpl.ipynb)
 
 
