@@ -1,0 +1,5 @@
+numpy==1.24.2
+matplotlib==3.7.0
+myst_parser
+sphinx_rtd_theme
+pysymlog
