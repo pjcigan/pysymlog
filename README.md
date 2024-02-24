@@ -3,9 +3,11 @@ pysymlog -- Symmetric (signed) logarithm scale for your python plots
 version 1.0.1
 
 
-API documentation: [https://pysymlog.readthedocs.io](https://pysymlog.readthedocs.io)
+API documentation: [https://pysymlog.readthedocs.io/en/latest/pysymlog.html](https://pysymlog.readthedocs.io/en/latest/pysymlog.html)
 
-Examples: [https://github.com/pjcigan/pysymlog/examples/tutorial_mpl.ipynb](https://github.com/pjcigan/pysymlog/examples/tutorial_mpl.ipynb)
+Examples:
+View on readthedocs[https://pysymlog.readthedocs.io/en/latest/tutorial_mpl.html](https://pysymlog.readthedocs.io/en/latest/tutorial_mpl.html)
+or on [nbviewer](https://nbviewer.org/github/pjcigan/pysymlog/blob/master/examples/tutorial_mpl.ipynb)
 
 
 [![PyPI version](https://badge.fury.io/py/pysymlog.svg)](https://badge.fury.io/py/pysymlog)
@@ -101,8 +103,8 @@ fig.show()
 
 API documentation can be found at [https://pysymlog.readthedocs.io](https://pysymlog.readthedocs.io)
 
-See the [examples jupyter notebook](https://github.com/pjcigan/pysymlog/examples/tutorial_mpl.ipynb) for much more detail and example usage.
-
+See the examples jupyter notebook on [readthedocs](https://pysymlog.readthedocs.io/en/latest/tutorial_mpl.html)
+or on [nbviewer](https://nbviewer.org/github/pjcigan/pysymlog/blob/master/examples/tutorial_mpl.ipynb) for much more detail and example usage.
 
 
 Example gallery:
